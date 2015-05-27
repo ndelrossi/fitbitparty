@@ -1,3 +1,7 @@
+fitbit_party:
+    resource: "@FitbitPartyBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
