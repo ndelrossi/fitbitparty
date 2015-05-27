@@ -1,4 +1,4 @@
 services:
 #    fitbit_party.example:
-#        class: FitbitPartyBundle\Example
+#        class: FitbitParty\PartyBundle\Example
 #        arguments: [@service_id, "plain_value", %parameter%]

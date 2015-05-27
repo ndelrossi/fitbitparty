@@ -1,6 +1,6 @@
 <?php
 
-namespace FitbitPartyBundle\DependencyInjection;
+namespace FitbitParty\PartyBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

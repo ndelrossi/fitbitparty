@@ -1,6 +1,6 @@
 <?php
 
-namespace FitbitPartyBundle\DependencyInjection;
+namespace FitbitParty\PartyBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

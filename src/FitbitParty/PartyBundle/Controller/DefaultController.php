@@ -1,6 +1,6 @@
 <?php
 
-namespace FitbitPartyBundle\Controller;
+namespace FitbitParty\PartyBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 

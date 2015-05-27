@@ -1,6 +1,6 @@
 <?php
 
-namespace FitbitPartyBundle\Tests\Controller;
+namespace FitbitParty\PartyBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

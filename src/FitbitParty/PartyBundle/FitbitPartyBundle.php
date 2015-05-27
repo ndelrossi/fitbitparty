@@ -1,6 +1,6 @@
 <?php
 
-namespace FitbitPartyBundle;
+namespace FitbitParty\PartyBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
